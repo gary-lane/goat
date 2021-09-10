@@ -1,0 +1,9 @@
+body{background: whitesmoke; width: 1080px;}
+div{background: black; border-style: inset; border-color:whitesmoke;margin-top:10px;}
+img{border-style: inset;border-color:goldenrod;border-spacing: 20px;margin-left:20px;margin-top: 20px; margin-bottom: 0px; margin-right: 20px;}
+p{border-style: inset;border-color: goldenrod;border-spacing: 10px;padding: 5px;margin: 15px; background-color:whitesmoke}
+h1{padding: 5px;color:black;border-style: inset;border-color: goldenrod;border-spacing: 5px;background-color:whitesmoke}
+h2{padding: 5px;color:black;background-color: white}
+#goat{color:goldenrod;background-color:black;border-style:inset;border-color:gold;border-spacing:5px}
+#carmack{border-radius: 80px;border-style: solid}
+link{color:blue}
